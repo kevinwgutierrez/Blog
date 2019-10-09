@@ -54,16 +54,15 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong>, a Northern California native 
-        doing impactful things.
-        {` `}
+        Written by <strong>{author}</strong>.
+        {`\n `}
         Find him on <a href={`https://twitter.com/${social.twitter}`}>
            Twitter
            </a> ,&nbsp;
-        <a href ={`https://instagram.com/${social.instagram}/`}>
+        <a href ={`https://instagram.com/${social.instagram}`}>
            Instagram
         </a> or&nbsp;
-         <a href ={`https://linkedin.com/in/${social.linkedin}/`}>
+         <a href ={`https://linkedin.com/in/${social.linkedin}`}>
           Linkedin!
         </a>
       </p>

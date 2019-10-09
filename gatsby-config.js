@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Kevin W. Gutierrez's Blog`,
+    title: `Kevin W. Gutierrez`,
     author: `Kevin W. Gutierrez`,
     description: `A blog by Kevin W. Gutierrez`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://kevinwgutierrez.com`,
     social: {
       twitter: `its_keving`,
       instagram: `kevinwgutierrez`,
